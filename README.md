@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 Projects
 - Take a look at my portfolio:
-  [https://github.com/swapnil73020-lgtm/portfolio](#) <!-- Add your real portfolio link here -->
+  [Portfolio](https://github.com/swapnil73020-lgtm/portfolio) <!-- Add your real portfolio link here -->
 
 ## 🧮 GitHub Stats
 
