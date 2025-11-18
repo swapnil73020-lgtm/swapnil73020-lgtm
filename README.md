@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Swapnil 👋
 
-<!--
-**swapnil73020-lgtm/swapnil73020-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 💻 I work with **HTML**, **CSS**, and **JavaScript**.
+- 🏗️ Building cool stuff on the web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Take a look at my portfolio:
+  [Portfolio Website](#) <!-- Add your real portfolio link here -->
+
+## 🧮 GitHub Stats
+
+<!-- GitHub Stats Card -->
+![Swapnil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swapnil73020-lgtm&show_icons=true&theme=radical)
+
+<!-- GitHub Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=swapnil73020-lgtm&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗨️ Quote
+
+> "Strive for progress, not perfection."
+
+---
+
+Feel free to explore my repositories!
